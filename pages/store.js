@@ -12,7 +12,7 @@ function store({ products, categories }) {
   return (
     <div>
       <Layout categories={categories}>
-        <Store products={products} />
+        <Store products={products} categories={categories} />
       </Layout>
     </div>
   );
