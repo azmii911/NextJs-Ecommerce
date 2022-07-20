@@ -4,10 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![image](https://user-images.githubusercontent.com/72024933/179960423-760de27f-90c8-4e4c-8472-0433427a1461.png)
-
-
-
 
 
 
