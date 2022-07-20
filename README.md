@@ -11,6 +11,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![quick](https://user-images.githubusercontent.com/72024933/179961572-b096681f-73f2-4095-8a30-2f2975cf1f12.PNG)
 ![cart](https://user-images.githubusercontent.com/72024933/179961577-28a49ecf-b863-491d-adc8-bed94f4d0f31.PNG)
 
+![screencapture-localhost-3000-admin-orders-2022-07-20-15_32_27](https://user-images.githubusercontent.com/72024933/179961772-c006573a-ba66-4200-aa1b-6642e79b19b5.png)
+![screencapture-localhost-3000-admin-orders-62cb1c418e3d870e8d783520-2022-07-20-15_32_35](https://user-images.githubusercontent.com/72024933/179961780-ee6b58d2-037a-4d1d-a32c-c8ce81007af2.png)
+![screencapture-localhost-3000-admin-dashboard-2022-07-20-15_32_13 (1)](https://user-images.githubusercontent.com/72024933/179961788-4e66ceb0-c7e2-4967-9dd0-8697da472dd9.png)
 
 ## Getting Started
 
