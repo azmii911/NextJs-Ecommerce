@@ -5,4 +5,4 @@ export const API_BASE_URL = dev
   : "https://next-js-ecommerce-ebon.vercel.app/api";
 export const BASE_URL = dev
   ? "http://localhost:3000"
-  : "https://next-js-ecommerce-ebon.vercel.app/";
+  : "https://next-js-ecommerce-ebon.vercel.app";
